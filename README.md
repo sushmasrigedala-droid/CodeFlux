@@ -16,7 +16,7 @@ A modern platform for mastering **Data Structures & Algorithms** through structu
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2962FF?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/bhavana2007/CodeFlux">
+<a href="https://github.com/sushmasrigedala-droid/CodeFlux">
 <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -24,9 +24,9 @@ A modern platform for mastering **Data Structures & Algorithms** through structu
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/bhavana2007/CodeFlux?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/bhavana2007/CodeFlux?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/bhavana2007/CodeFlux?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/sushmasrigedala-droid/CodeFlux?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/sushmasrigedala-droid/CodeFlux?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/sushmasrigedala-droid/CodeFlux?style=for-the-badge"/>
 
 </p>
 
@@ -231,7 +231,7 @@ CodeFlux
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/bhavana2007/CodeFlux.git
+git clone https://github.com/sushmasrigedala-droid/CodeFlux.git
 ```
 
 ### Navigate to the Project
@@ -290,17 +290,17 @@ http://localhost:5173
 
 # 👩‍💻 Developer
 
-**Bhavana Kolli**
+**GEDALA SUSHMA SRI**
 
 AI & Machine Learning Student
 
-📧 bhavanakolli983@gmail.com
+📧 sushmasrigedala@gmail.com
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/bhavana-kolli-020b35368/
+https://www.linkedin.com/in/sushma-sri-gedala-103938331/
 
 🐙 GitHub  
-https://github.com/bhavana2007
+https://github.com/sushmasrigedala-droid
 
 ---
 
@@ -308,6 +308,6 @@ https://github.com/bhavana2007
 
 ### ⭐ If you found CodeFlux useful, don't forget to give it a Star!
 
-**Made with ❤️ by Bhavana Kolli**
+**Made with ❤️ by GEDALA SUSHMA SRI**
 
 </div>
